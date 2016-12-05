@@ -28,6 +28,7 @@ namespace Zst_Projekt_EtapII
         public Form1()
         {
             InitializeComponent();
+
         }
 
 
